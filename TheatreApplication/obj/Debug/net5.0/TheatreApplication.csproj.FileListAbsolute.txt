@@ -1,0 +1,16 @@
+C:\Users\Alisha\source\repos\TheatreApplication\bin\Debug\net5.0\TheatreApplication.exe
+C:\Users\Alisha\source\repos\TheatreApplication\bin\Debug\net5.0\TheatreApplication.deps.json
+C:\Users\Alisha\source\repos\TheatreApplication\bin\Debug\net5.0\TheatreApplication.runtimeconfig.json
+C:\Users\Alisha\source\repos\TheatreApplication\bin\Debug\net5.0\TheatreApplication.runtimeconfig.dev.json
+C:\Users\Alisha\source\repos\TheatreApplication\bin\Debug\net5.0\TheatreApplication.dll
+C:\Users\Alisha\source\repos\TheatreApplication\bin\Debug\net5.0\ref\TheatreApplication.dll
+C:\Users\Alisha\source\repos\TheatreApplication\bin\Debug\net5.0\TheatreApplication.pdb
+C:\Users\Alisha\source\repos\TheatreApplication\obj\Debug\net5.0\TheatreApplication.csproj.AssemblyReference.cache
+C:\Users\Alisha\source\repos\TheatreApplication\obj\Debug\net5.0\TheatreApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alisha\source\repos\TheatreApplication\obj\Debug\net5.0\TheatreApplication.AssemblyInfoInputs.cache
+C:\Users\Alisha\source\repos\TheatreApplication\obj\Debug\net5.0\TheatreApplication.AssemblyInfo.cs
+C:\Users\Alisha\source\repos\TheatreApplication\obj\Debug\net5.0\TheatreApplication.csproj.CoreCompileInputs.cache
+C:\Users\Alisha\source\repos\TheatreApplication\obj\Debug\net5.0\TheatreApplication.dll
+C:\Users\Alisha\source\repos\TheatreApplication\obj\Debug\net5.0\ref\TheatreApplication.dll
+C:\Users\Alisha\source\repos\TheatreApplication\obj\Debug\net5.0\TheatreApplication.pdb
+C:\Users\Alisha\source\repos\TheatreApplication\obj\Debug\net5.0\TheatreApplication.genruntimeconfig.cache

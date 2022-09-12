@@ -1,0 +1,16 @@
+C:\Users\Alisha\source\repos\Assignment01_Alley\bin\Debug\net5.0\Assignment01_Alley.exe
+C:\Users\Alisha\source\repos\Assignment01_Alley\bin\Debug\net5.0\Assignment01_Alley.deps.json
+C:\Users\Alisha\source\repos\Assignment01_Alley\bin\Debug\net5.0\Assignment01_Alley.runtimeconfig.json
+C:\Users\Alisha\source\repos\Assignment01_Alley\bin\Debug\net5.0\Assignment01_Alley.runtimeconfig.dev.json
+C:\Users\Alisha\source\repos\Assignment01_Alley\bin\Debug\net5.0\Assignment01_Alley.dll
+C:\Users\Alisha\source\repos\Assignment01_Alley\bin\Debug\net5.0\ref\Assignment01_Alley.dll
+C:\Users\Alisha\source\repos\Assignment01_Alley\bin\Debug\net5.0\Assignment01_Alley.pdb
+C:\Users\Alisha\source\repos\Assignment01_Alley\obj\Debug\net5.0\Assignment01_Alley.csproj.AssemblyReference.cache
+C:\Users\Alisha\source\repos\Assignment01_Alley\obj\Debug\net5.0\Assignment01_Alley.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alisha\source\repos\Assignment01_Alley\obj\Debug\net5.0\Assignment01_Alley.AssemblyInfoInputs.cache
+C:\Users\Alisha\source\repos\Assignment01_Alley\obj\Debug\net5.0\Assignment01_Alley.AssemblyInfo.cs
+C:\Users\Alisha\source\repos\Assignment01_Alley\obj\Debug\net5.0\Assignment01_Alley.csproj.CoreCompileInputs.cache
+C:\Users\Alisha\source\repos\Assignment01_Alley\obj\Debug\net5.0\Assignment01_Alley.dll
+C:\Users\Alisha\source\repos\Assignment01_Alley\obj\Debug\net5.0\ref\Assignment01_Alley.dll
+C:\Users\Alisha\source\repos\Assignment01_Alley\obj\Debug\net5.0\Assignment01_Alley.pdb
+C:\Users\Alisha\source\repos\Assignment01_Alley\obj\Debug\net5.0\Assignment01_Alley.genruntimeconfig.cache

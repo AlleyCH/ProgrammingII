@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Assignment02_Alley/1.0.0": {
+        "runtime": {
+          "Assignment02_Alley.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment02_Alley/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

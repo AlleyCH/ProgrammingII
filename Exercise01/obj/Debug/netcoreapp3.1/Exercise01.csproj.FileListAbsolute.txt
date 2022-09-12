@@ -1,0 +1,5 @@
+C:\Users\Alisha\source\repos\Exercise01\obj\Debug\netcoreapp3.1\Exercise01.csproj.AssemblyReference.cache
+C:\Users\Alisha\source\repos\Exercise01\obj\Debug\netcoreapp3.1\Exercise01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alisha\source\repos\Exercise01\obj\Debug\netcoreapp3.1\Exercise01.AssemblyInfoInputs.cache
+C:\Users\Alisha\source\repos\Exercise01\obj\Debug\netcoreapp3.1\Exercise01.AssemblyInfo.cs
+C:\Users\Alisha\source\repos\Exercise01\obj\Debug\netcoreapp3.1\Exercise01.csproj.CoreCompileInputs.cache
